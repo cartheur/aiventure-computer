@@ -1,6 +1,6 @@
 # aiventure-computer
 
-The computer that runs our huggable, henry, and fred products. David is being considered as a second-generation project.
+The computer that runs our huggable, henry, and fred products. David is being considered as a second-generation model as the bipedal robot is much more sophisticated and needs more thought on how the hardware would manage this and the presence of _ideal_.
 
 ## The target
 
