@@ -4,7 +4,7 @@ The computer that runs our huggable, henry, and fred products. David is being co
 
 ## The target
 
-* The target OS for the new design is <a href="https://debian.org" target="_blank">Debian 12</a> with Linux kernel <a href="https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.182.tar.xz" target="_blank">5.10.182</a>. We have the option as well to keep it in the version 4.4.13 kernel according to b149. This would be the path of least-resistance. This version is a moving target and is subject to change in the future.
+* The target OS for the new design is <a href="https://debian.org" target="_blank">Debian 12</a> with Linux kernel <a href="https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.182.tar.xz" target="_blank">5.10.182</a>. We have the option as well to keep it in the version 4.4.13 kernel according to `b149`. This would be the path of least-resistance. This version is a moving target and is subject to change in the future.
 * The entire board will have to be proofed in order to obtain a rather assured estimate of the costs-per-unit of manufacture. There are anticipated issues with finding replacement parts. There is a question of upgrading. The focus is only on the main board.
 
 ## The source
