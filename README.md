@@ -5,7 +5,7 @@ The computer that currently runs our portable robotics projects. As finding a re
 ## The target
 
 * The target OS for the new design is Debian 12 (bookworm) with Linux kernel 6.6.23. The last kernel for the old board is version 4.4.13 according to `b149`. 
-* The entire board will have to be proofed in order to obtain a rather assured estimate of the costs-per-unit of manufacture. There are anticipated issues with finding replacement parts. There is a question of upgrading. The focus is only on the main board.
+* The entire board will have to be proofed in order to obtain a rather assured estimate of the costs-per-unit of manufacture.
 
 ## The source
 
