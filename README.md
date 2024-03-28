@@ -13,3 +13,16 @@ The _project_ directory contains the correct <a href="http://www.orcad.com/" tar
 In the historic version, there was no linkage between the design files meaning the entire project needed to be rebuilt in OrCad.
 
 The milestone is to understand the current status and what needs to be done to prepare it for manufacturing. Of course, clean-up some of the more silly aspects of the design and improve the quality of component choices.
+
+## What needs to be accomplished
+
+This board needs to be put into production to support [emotional](https://emotional.toys) toys products. The following changes need to be considered so that this board is brought-up to the current (2024) technological standards.
+
+* CPU/GPU
+* RAM (SDRAM) - 16 GB
+* NVRAM (eMMC) - 256 GB
+* Pin interfaces at board level (no headers) (Requirement)
+* Recharable point for JST connected battery (Requirement)
+* USB should be USB-C (Requirement)
+
+I will add to this list as the specifics are investigated.
