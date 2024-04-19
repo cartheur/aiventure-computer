@@ -6,11 +6,11 @@ _Project Goals_
 
 This board needs to be put into production to support [emotional](https://emotional.toys) toys products. The following changes need to be considered so that this board is brought-up to the current (2024) technological standards.
 
-* CPU/GPU
+* CPU/GPU - Eight cores
 * RAM (SDRAM) - 16 GB
 * NVRAM (eMMC) - 256 GB
 * Pin interfaces at board level (no headers) (Requirement)
-* Recharable point for JST connected battery (Requirement)
+* Rechargable feature for JST connected battery retained but which allows higher-capacity batteries (Requirement)
 * USB should be USB-C (Requirement)
 
 I will add to this list as the specifics are investigated.
