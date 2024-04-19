@@ -13,7 +13,7 @@ This board needs to be put into production to support [emotional](https://emotio
 * Rechargable feature for JST connected battery retained but which allows higher-capacity batteries (Requirement)
 * USB should be USB-C (Requirement)
 
-I will add to this list as the specifics are investigated.
+The above list is fluid as its specifics will change as the investigation ensues.
 
 ## The target
 
