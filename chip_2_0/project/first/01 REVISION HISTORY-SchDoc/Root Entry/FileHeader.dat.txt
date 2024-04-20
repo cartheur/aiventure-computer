@@ -1,0 +1,98 @@
+|HEADER=Protel for Windows - Schematic Capture Binary File Version 5.0|Weight=97|MinorVersion=2|UniqueID=PVXJOJIS
+|RECORD=31|FontIdCount=9|Size1=10|FontName1=Times New Roman|Size2=7|FontName2=Arial|Size3=14|Italic3=T|Bold3=T|FontName3=Courier New|Size4=14|Bold4=T|FontName4=Arial|Size5=22|Bold5=T|FontName5=Courier New|Size6=15|Bold6=T|FontName6=Courier New|Size7=14|FontName7=Courier New|Size8=24|Bold8=T|FontName8=Arial|Size9=12|FontName9=Courier New|UseMBCS=T|IsBOC=T|HotSpotGridOn=T|HotSpotGridSize=10|SheetStyle=5|SystemFont=1|BorderOn=T|SheetNumberSpaceSize=12|AreaColor=16317695|SnapGridOn=T|SnapGridSize=10|VisibleGridOn=T|VisibleGridSize=10|CustomX=1653|CustomX_Frac=54331|CustomY=1169|CustomY_Frac=29134|UseCustomSheet=T|CustomXZones=6|CustomYZones=4|CustomMarginWidth=10|Display_Unit=1
+|RECORD=41|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=CurrentTime|ReadOnlyState=1|UniqueID=HMQQAKQQ
+|RECORD=41|IndexInSheet=1|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=CurrentDate|ReadOnlyState=1|UniqueID=ZCKFUWCL
+|RECORD=41|IndexInSheet=2|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Time|ReadOnlyState=1|UniqueID=JPDJCYBQ
+|RECORD=41|IndexInSheet=3|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Date|ReadOnlyState=1|UniqueID=UIRYJBYR
+|RECORD=41|IndexInSheet=4|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=DocumentFullPathAndName|ReadOnlyState=1|UniqueID=FHVLIIGA
+|RECORD=41|IndexInSheet=5|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=DocumentName|ReadOnlyState=1|UniqueID=QHELYEKS
+|RECORD=41|IndexInSheet=6|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=ModifiedDate|ReadOnlyState=1|UniqueID=TLZYFZPI
+|RECORD=41|IndexInSheet=7|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=ApprovedBy|ReadOnlyState=1|UniqueID=KAVRSSHX
+|RECORD=41|IndexInSheet=8|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=CheckedBy|ReadOnlyState=1|UniqueID=DSAMBRDA
+|RECORD=41|IndexInSheet=9|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Author|ReadOnlyState=1|UniqueID=JCTVTPRP
+|RECORD=41|IndexInSheet=10|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=CompanyName|ReadOnlyState=1|UniqueID=YZFXBALF
+|RECORD=41|IndexInSheet=11|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=DrawnBy|ReadOnlyState=1|UniqueID=SNAHMPIX
+|RECORD=41|IndexInSheet=12|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Engineer|ReadOnlyState=1|UniqueID=ZHHFEXQC
+|RECORD=41|IndexInSheet=13|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Organization|ReadOnlyState=1|UniqueID=IZOCGUOU
+|RECORD=41|IndexInSheet=14|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Address1|ReadOnlyState=1|UniqueID=JGSSMJVD
+|RECORD=41|IndexInSheet=15|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Address2|ReadOnlyState=1|UniqueID=GVUOQVNT
+|RECORD=41|IndexInSheet=16|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Address3|ReadOnlyState=1|UniqueID=UVVMILLB
+|RECORD=41|IndexInSheet=17|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Address4|ReadOnlyState=1|UniqueID=JCOCLIZX
+|RECORD=41|IndexInSheet=18|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Title|ReadOnlyState=1|UniqueID=YFYGXPLQ
+|RECORD=41|IndexInSheet=19|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=DocumentNumber|ReadOnlyState=1|UniqueID=MEYICCLN
+|RECORD=41|IndexInSheet=20|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Revision|ReadOnlyState=1|UniqueID=LVILYCMX
+|RECORD=41|IndexInSheet=21|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=SheetNumber|ReadOnlyState=1|UniqueID=VQJKUSRY
+|RECORD=41|IndexInSheet=22|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=SheetTotal|ReadOnlyState=1|UniqueID=VXPLWHWF
+|RECORD=41|IndexInSheet=23|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Rule|ReadOnlyState=1|UniqueID=KFADMCZG
+|RECORD=41|IndexInSheet=24|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=ImagePath|ReadOnlyState=1|UniqueID=RBRQAOYW
+|RECORD=41|IndexInSheet=25|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=ProjectName|ReadOnlyState=1|UniqueID=SBKGGBVT
+|RECORD=41|IndexInSheet=26|OwnerPartId=-1|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Application_BuildNumber|ReadOnlyState=1|UniqueID=MANFNARD
+|RECORD=1|LibReference=TitleBlock1-nextthing|PartCount=2|DisplayModeCount=1|IndexInSheet=27|OwnerPartId=-1|Location.X=1290|Location.Y=200|CurrentPartId=1|LibraryPath=*|SourceLibraryName=*|SheetPartFileName=*|TargetFileName=*|UniqueID=OISTUQFW|AreaColor=11599871|Color=128|PartIDLocked=T|DesignItemId=TitleBlock1-nextthing|ComponentKind=2
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|OwnerPartId=1|Location.X=1290|Location.Y=73|FontID=2|Text=Design Name
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=1|OwnerPartId=1|Location.X=1290|Location.Y=43|FontID=2|Text=Size
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=2|OwnerPartId=1|Location.X=1320|Location.Y=43|FontID=2|Text=Page Name
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=3|OwnerPartId=1|Location.X=1610|Location.Y=43|FontID=2|Text=Rev
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=4|OwnerPartId=1|Location.X=1290|Location.Y=13|FontID=2|Text=Date:
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=5|OwnerPartId=1|Location.X=1490|Location.Y=13|FontID=2|Text=Sheet
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=6|OwnerPartId=1|Location.X=1290|Location.Y=50|Corner.X=1640|Corner.Y=80|LineWidth=1
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=7|OwnerPartId=1|Location.X=1290|Location.Y=20|Corner.X=1320|Corner.Y=50|LineWidth=1
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=8|OwnerPartId=1|Location.X=1290|Location.Y=10|Corner.X=1490|Corner.Y=20|LineWidth=1
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=9|OwnerPartId=1|Location.X=1490|Location.Y=10|Corner.X=1640|Corner.Y=20|LineWidth=1
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=10|OwnerPartId=1|Location.X=1570|Location.Y=13|FontID=2|Text=of
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=11|OwnerPartId=1|Location.X=1290|Location.Y=120|Corner.X=1640|Corner.Y=200|LineWidth=1
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=12|OwnerPartId=1|Location.X=1590|Location.Y=20|Corner.X=1640|Corner.Y=50|LineWidth=1
+|RECORD=4|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=13|OwnerPartId=1|Location.X=1350|Location.Y=106|FontID=3|Text=Oakland, California
+|RECORD=30|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=14|OwnerPartId=1|Location.X=1290|Location.Y=120|Corner.X=1640|Corner.Y=200|EmbedImage=T|FileName=D:\mehdi\sherkat\cartheur\aiventure-computer-main\aiventure-computer-main - test2\chip_1_0\files\Imported CHIP_v1_0.PrjPcb\Image.bmp
+|RECORD=28|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=15|OwnerPartId=1|Location.X=1350|Location.Y=64|Corner.X=1538|Corner.Y=100|AreaColor=16777215|FontID=3|Alignment=1|WordWrap=T|ClipToRect=T|Text=docs.nextthing.co~1|TextMargin_Frac=5
+|RECORD=14|OwnerIndex=28|IsNotAccesible=T|IndexInSheet=16|OwnerPartId=1|Location.X=1290|Location.Y=80|Corner.X=1640|Corner.Y=120|LineWidth=1
+|RECORD=41|OwnerIndex=28|IndexInSheet=17|OwnerPartId=1|Location.X=1600|Location.Y=13|Color=8388608|FontID=2|Text=9|Name=Page Count|UniqueID=XXMTMZPT|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=18|OwnerPartId=1|Location.X=1540|Location.Y=13|Color=8388608|FontID=2|Text=1|Name=Page Number|UniqueID=UBSUOCTE|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=19|OwnerPartId=1|Location.X=1300|Location.Y=33|Color=8388608|FontID=2|Text=A|Name=Page Size|UniqueID=AOVISKXY|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=20|OwnerPartId=1|Location.X=1340|Location.Y=56|Color=8388608|FontID=4|Text=C.H.I.P.|Name=Title|UniqueID=SJBPUORL|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=21|OwnerPartId=1|Location.X=1610|Location.Y=33|Color=8388608|FontID=2|Text=v1.0|Name=RevCode|UniqueID=XKOKTVZZ|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=22|OwnerPartId=1|Location.X=1340|Location.Y=26|Color=8388608|FontID=4|Text=REVISION HISTORY|Name=Doc|UniqueID=LIWNQACP|NotAutoPosition=T
+|RECORD=41|OwnerIndex=28|IndexInSheet=23|OwnerPartId=1|Location.X=1290|Location.Y=200|Color=8388608|FontID=1|IsHidden=T|Text=March  8, 1995|Name=Page Create Date|UniqueID=YENGUGLM|NotAutoPosition=T
+|RECORD=34|OwnerIndex=28|IndexInSheet=-1|OwnerPartId=-1|Location.X=1290|Location.Y=200|Color=8388608|FontID=1|IsHidden=T|Text=*|Name=Designator|ReadOnlyState=1|UniqueID=YACRPIUR
+|RECORD=41|OwnerIndex=28|IndexInSheet=-1|OwnerPartId=-1|Location.X=1290|Color=8388608|FontID=1|IsHidden=T|Text=TitleBlock1-nextthing|Name=Comment|UniqueID=RSJOVPPD
+|RECORD=44|OwnerIndex=28
+|RECORD=4|IndexInSheet=28|OwnerPartId=-1|Location.X=230|Location.Y=958|FontID=5|%UTF8%Text=Schematics IndexÂ£Âº|||Text=Schematics Index£º
+|RECORD=4|IndexInSheet=29|OwnerPartId=-1|Location.X=1280|Location.Y=435|FontID=6|Text=Approved
+|RECORD=4|IndexInSheet=30|OwnerPartId=-1|Location.X=1080|Location.Y=435|FontID=6|Text=Drawn
+|RECORD=13|IndexInSheet=31|OwnerPartId=-1|Location.X=1270|Location.Y=450|Corner.X=1270|Corner.Y=240|LineWidth=1
+|RECORD=13|IndexInSheet=32|OwnerPartId=-1|Location.X=1160|Location.Y=450|Corner.X=1160|Corner.Y=240|LineWidth=1
+|RECORD=13|IndexInSheet=33|OwnerPartId=-1|Location.X=200|Location.Y=420|Corner.X=1380|Corner.Y=420|LineWidth=1
+|RECORD=13|IndexInSheet=34|OwnerPartId=-1|Location.X=570|Location.Y=450|Corner.X=570|Corner.Y=240|LineWidth=1
+|RECORD=14|IndexInSheet=35|OwnerPartId=-1|Location.X=200|Location.Y=240|Corner.X=1380|Corner.Y=450|LineWidth=1
+|RECORD=13|IndexInSheet=36|OwnerPartId=-1|Location.X=1070|Location.Y=450|Corner.X=1070|Corner.Y=240|LineWidth=1
+|RECORD=13|IndexInSheet=37|OwnerPartId=-1|Location.X=940|Location.Y=450|Corner.X=940|Corner.Y=240|LineWidth=1
+|RECORD=4|IndexInSheet=38|OwnerPartId=-1|Location.X=1170|Location.Y=435|FontID=6|Text=Checked
+|RECORD=4|IndexInSheet=39|OwnerPartId=-1|Location.X=980|Location.Y=435|FontID=6|Text=Date
+|RECORD=4|IndexInSheet=40|OwnerPartId=-1|Location.X=580|Location.Y=435|FontID=6|Text=Description
+|RECORD=4|IndexInSheet=41|OwnerPartId=-1|Location.X=210|Location.Y=435|FontID=6|Text=Revision History
+|RECORD=13|IndexInSheet=42|OwnerPartId=-1|Location.X=200|Location.Y=390|Corner.X=1380|Corner.Y=390|LineWidth=1
+|RECORD=13|IndexInSheet=43|OwnerPartId=-1|Location.X=200|Location.Y=300|Corner.X=1380|Corner.Y=300|LineWidth=1
+|RECORD=13|IndexInSheet=44|OwnerPartId=-1|Location.X=200|Location.Y=330|Corner.X=1380|Corner.Y=330|LineWidth=1
+|RECORD=13|IndexInSheet=45|OwnerPartId=-1|Location.X=200|Location.Y=360|Corner.X=1380|Corner.Y=360|LineWidth=1
+|RECORD=13|IndexInSheet=46|OwnerPartId=-1|Location.X=200|Location.Y=940|Corner.X=600|Corner.Y=940|LineWidth=1
+|RECORD=28|IndexInSheet=47|OwnerPartId=-1|Location.X=230|Location.Y=920|Corner.X=466|Corner.Y=749|AreaColor=16777215|FontID=7|Alignment=1|WordWrap=T|ClipToRect=T|%UTF8%Text=P01: REVISION HISTORY~1P02: BLOCK~1P03: CPU~1P04: POWER~1P05: MISC~1P06Â£ÂºSDIO WIFI ~1P07: USB~1P08: BESIDE CPU~1P09: MEMORY|||Text=P01: REVISION HISTORY~1P02: BLOCK~1P03: CPU~1P04: POWER~1P05: MISC~1P06£ºSDIO WIFI ~1P07: USB~1P08: BESIDE CPU~1P09: MEMORY|TextMargin_Frac=5
+|RECORD=13|IndexInSheet=48|OwnerPartId=-1|Location.X=30|Location.Y=1100|Corner.X=400|Corner.Y=1100|LineWidth=1
+|RECORD=4|IndexInSheet=49|OwnerPartId=-1|Location.X=50|Location.Y=1116|Color=66|FontID=8|Text=REVISION HISTORY
+|RECORD=4|IndexInSheet=50|OwnerPartId=-1|Location.X=950|Location.Y=398|FontID=9|Text=2015-03-30
+|RECORD=4|IndexInSheet=51|OwnerPartId=-1|Location.X=570|Location.Y=398|FontID=9|Text=version 0.1
+|RECORD=4|IndexInSheet=52|OwnerPartId=-1|Location.X=200|Location.Y=398|FontID=9|Text=C.H.I.P. ALPHA
+|RECORD=4|IndexInSheet=53|OwnerPartId=-1|Location.X=200|Location.Y=368|FontID=9|Text=C.H.I.P. ALPHA
+|RECORD=4|IndexInSheet=54|OwnerPartId=-1|Location.X=570|Location.Y=368|FontID=9|Text=version 0.2
+|RECORD=4|IndexInSheet=55|OwnerPartId=-1|Location.X=950|Location.Y=368|FontID=9|Text=2015-07-10
+|RECORD=4|IndexInSheet=56|OwnerPartId=-1|Location.X=200|Location.Y=338|FontID=9|Text=C.H.I.P. ALPHA
+|RECORD=4|IndexInSheet=57|OwnerPartId=-1|Location.X=570|Location.Y=338|FontID=9|Text=version 0.21
+|RECORD=4|IndexInSheet=58|OwnerPartId=-1|Location.X=950|Location.Y=338|FontID=9|Text=2015-08-10
+|RECORD=4|IndexInSheet=59|OwnerPartId=-1|Location.X=200|Location.Y=308|FontID=9|Text=C.H.I.P. 
+|RECORD=4|IndexInSheet=60|OwnerPartId=-1|Location.X=570|Location.Y=308|FontID=9|Text=version 0.9
+|RECORD=4|IndexInSheet=61|OwnerPartId=-1|Location.X=950|Location.Y=308|FontID=9|Text=2015-08-24
+|RECORD=4|IndexInSheet=62|OwnerPartId=-1|Location.X=200|Location.Y=278|FontID=9|Text=C.H.I.P. 
+|RECORD=4|IndexInSheet=63|OwnerPartId=-1|Location.X=570|Location.Y=278|FontID=9|Text=version 0.91
+|RECORD=4|IndexInSheet=64|OwnerPartId=-1|Location.X=950|Location.Y=278|FontID=9|Text=2015-10-16
+|RECORD=13|IndexInSheet=65|OwnerPartId=-1|Location.X=200|Location.Y=270|Corner.X=1380|Corner.Y=270|LineWidth=1
+|RECORD=4|IndexInSheet=66|OwnerPartId=-1|Location.X=200|Location.Y=248|FontID=9|Text=C.H.I.P. 
+|RECORD=4|IndexInSheet=67|OwnerPartId=-1|Location.X=570|Location.Y=248|FontID=9|Text=version 1.0
+|RECORD=4|IndexInSheet=68|OwnerPartId=-1|Location.X=950|Location.Y=248|FontID=9|Text=2015-11-11

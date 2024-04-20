@@ -1,0 +1,376 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title "02 BLOCK-SchDoc"
+Date "20 04 2024"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 16000 10870 0    42   ~ 0
+9
+Text Notes 15400 10870 0    42   ~ 0
+2
+Text Notes 13000 10670 0    42   ~ 0
+A
+Text Notes 13400 10440 0    84   ~ 12
+C.H.I.P.
+Text Notes 16100 10670 0    42   ~ 0
+v1.0
+Text Notes 13400 10740 0    84   ~ 12
+BLOCK
+Text Notes 12900 9000 0    60   ~ 0
+March~~8,~1995
+Wire Notes Line
+	9300 3200 9300 2600
+Wire Notes Line
+	9300 3200 10700 3200
+Wire Notes Line
+	9300 2600 10700 2600
+Wire Notes Line
+	10700 3200 10700 2600
+Wire Notes Line
+	2300 4600 2300 4000
+Wire Notes Line
+	2300 4600 14800 4600
+Wire Notes Line
+	2300 4000 14800 4000
+Wire Notes Line
+	14800 4600 14800 4000
+Text Notes 10200 6730 0    78   ~ 0
+SDIO WIFI
+Text Notes 7700 5730 0    78   ~ 0
+HP/SP
+Wire Wire Line
+	6600 3200 6600 4000
+Wire Wire Line
+	6600 3200 6600 3200
+Wire Wire Line
+	6600 4000 6600 4000
+Wire Wire Line
+	6600 3200 6600 4000
+Wire Wire Line
+	8100 3200 8100 4000
+Wire Wire Line
+	8100 3200 8100 3200
+Wire Wire Line
+	8100 4000 8100 4000
+Wire Wire Line
+	8100 3200 8100 4000
+Wire Wire Line
+	10000 3200 10000 4000
+Wire Wire Line
+	10000 3200 10000 3200
+Wire Wire Line
+	10000 4000 10000 4000
+Wire Wire Line
+	10000 3200 10000 4000
+Wire Wire Line
+	11600 2500 11600 4000
+Wire Wire Line
+	11600 2500 11600 2500
+Wire Wire Line
+	11600 4000 11600 4000
+Wire Wire Line
+	11600 2500 11600 4000
+Wire Wire Line
+	10600 4600 10600 6400
+Wire Wire Line
+	10600 4600 10600 4600
+Wire Wire Line
+	10600 6400 10600 6400
+Wire Wire Line
+	10600 4600 10600 6400
+Wire Wire Line
+	13600 4600 13600 5400
+Wire Wire Line
+	13600 4600 13600 4600
+Wire Wire Line
+	13600 5400 13600 5400
+Wire Wire Line
+	13600 4600 13600 5400
+Wire Wire Line
+	8000 4600 8000 5400
+Wire Wire Line
+	8000 4600 8000 4600
+Wire Wire Line
+	8000 5400 8000 5400
+Wire Wire Line
+	8000 4600 8000 5400
+Wire Wire Line
+	3800 4600 3800 5400
+Wire Wire Line
+	3800 4600 3800 4600
+Wire Wire Line
+	3800 5400 3800 5400
+Wire Wire Line
+	3800 4600 3800 5400
+Text Notes 11400 1330 0    78   ~ 0
+BATT
+Text Notes 9300 2930 0    78   ~ 0
+LCD IO EXPAND
+Wire Notes Line
+	10900 1700 10900 1100
+Wire Notes Line
+	10900 1700 12300 1700
+Wire Notes Line
+	10900 1100 12300 1100
+Wire Notes Line
+	12300 1700 12300 1100
+Text Notes 11400 730 0    78   ~ 0
+DCIN
+Wire Notes Line
+	10900 1000 10900 400
+Wire Notes Line
+	10900 1000 12300 1000
+Wire Notes Line
+	10900 400 12300 400
+Wire Notes Line
+	12300 1000 12300 400
+Text Notes 11200 1530 0    78   ~ 0
+3.7V-4.2V
+Wire Wire Line
+	10900 2200 10900 2200
+Wire Wire Line
+	10900 2200 10100 2200
+Wire Wire Line
+	10900 2200 10100 2200
+Wire Wire Line
+	10100 2200 10100 2200
+Wire Wire Line
+	10100 2200 10100 700
+Wire Wire Line
+	10100 2200 10100 2200
+Wire Wire Line
+	10100 700 10100 700
+Wire Wire Line
+	10100 2200 10100 700
+Wire Wire Line
+	10100 700 10100 700
+Wire Wire Line
+	10100 700 10900 700
+Wire Wire Line
+	10100 700 10900 700
+Wire Wire Line
+	10900 700 10900 700
+Wire Wire Line
+	10900 1400 10900 1400
+Wire Wire Line
+	10900 1400 10100 1400
+Wire Wire Line
+	10900 1400 10100 1400
+Wire Wire Line
+	10100 1400 10100 1400
+Wire Wire Line
+	10100 1400 10100 1400
+Wire Wire Line
+	10100 1400 8100 1400
+Wire Wire Line
+	10100 1400 8100 1400
+Wire Wire Line
+	8100 1400 8100 1400
+Wire Wire Line
+	8100 1400 8100 1900
+Wire Wire Line
+	8100 1400 8100 1400
+Wire Wire Line
+	8100 1900 8100 1900
+Wire Wire Line
+	8100 1400 8100 1900
+Text Notes 11200 2230 0    78   ~ 0
+USB0 OTG
+Wire Notes Line
+	11400 6900 11400 6400
+Wire Notes Line
+	11400 6900 12300 6900
+Wire Notes Line
+	11400 6400 12300 6400
+Wire Notes Line
+	12300 6900 12300 6400
+Text Notes 11600 6530 0    78   ~ 0
+DEBUG
+Text Notes 11600 6830 0    78   ~ 0
+JTAG
+Wire Wire Line
+	11800 6400 11800 4600
+Wire Wire Line
+	11800 6400 11800 6400
+Wire Wire Line
+	11800 4600 11800 4600
+Wire Wire Line
+	11800 6400 11800 4600
+Wire Notes Line
+	10900 2500 10900 1900
+Wire Notes Line
+	10900 2500 12300 2500
+Wire Notes Line
+	10900 1900 12300 1900
+Wire Notes Line
+	12300 2500 12300 1900
+Wire Notes Line
+	7500 3200 7500 1900
+Wire Notes Line
+	7500 3200 8800 3200
+Wire Notes Line
+	7500 1900 8800 1900
+Wire Notes Line
+	8800 3200 8800 1900
+Wire Notes Line
+	3100 6000 3100 5400
+Wire Notes Line
+	3100 6000 4500 6000
+Wire Notes Line
+	3100 5400 4500 5400
+Wire Notes Line
+	4500 6000 4500 5400
+Wire Notes Line
+	7300 6000 7300 5400
+Wire Notes Line
+	7300 6000 8700 6000
+Wire Notes Line
+	7300 5400 8700 5400
+Wire Notes Line
+	8700 6000 8700 5400
+Wire Notes Line
+	13200 6000 13200 5400
+Wire Notes Line
+	13200 6000 14000 6000
+Wire Notes Line
+	13200 5400 14000 5400
+Wire Notes Line
+	14000 6000 14000 5400
+Text Notes 3600 5730 0    78   ~ 0
+KEY
+Text Notes 7800 2360 0    156   ~ 0
+PMU
+Text Notes 7600 2940 0    144   ~ 0
+AXP209
+Text Notes 6200 4330 0    78   ~ 0
+Interconnect Network,and Power Driven
+Wire Notes Line
+	5000 7000 5000 6400
+Wire Notes Line
+	5000 7000 6400 7000
+Wire Notes Line
+	5000 6400 6400 6400
+Wire Notes Line
+	6400 7000 6400 6400
+Text Notes 5100 6730 0    78   ~ 0
+CSI IO EXPAND
+Wire Wire Line
+	5700 4600 5700 6400
+Wire Wire Line
+	5700 4600 5700 4600
+Wire Wire Line
+	5700 6400 5700 6400
+Wire Wire Line
+	5700 4600 5700 6400
+Wire Notes Line
+	13700 2200 13700 1700
+Wire Notes Line
+	13700 2200 14900 2200
+Wire Notes Line
+	13700 1700 14900 1700
+Wire Notes Line
+	14900 2200 14900 1700
+Text Notes 13700 2030 0    78   ~ 0
+TP IO EXPAND
+Wire Wire Line
+	14200 4000 14200 2200
+Wire Wire Line
+	14200 4000 14200 4000
+Wire Wire Line
+	14200 2200 14200 2200
+Wire Wire Line
+	14200 4000 14200 2200
+Text Label 13300 5600 0 78 ~
+ MIC  
+Text Notes 400 -60 0    144   ~ 12
+BLOCK
+Wire Wire Line
+	400 100 400 100
+Wire Wire Line
+	400 100 1600 100
+Wire Wire Line
+	400 100 1600 100
+Wire Wire Line
+	1600 100 1600 100
+Wire Notes Line
+	4900 3200 4900 2500
+Wire Notes Line
+	4900 3200 5700 3200
+Wire Notes Line
+	4900 2500 5700 2500
+Wire Notes Line
+	5700 3200 5700 2500
+Text Notes 6100 2910 0    66   ~ 12
+ NANDFLASH 
+Wire Notes Line
+	6100 3200 6100 2500
+Wire Notes Line
+	6100 3200 7100 3200
+Wire Notes Line
+	6100 2500 7100 2500
+Wire Notes Line
+	7100 3200 7100 2500
+Text Notes 12600 3030 0    78   ~ 0
+USB1 HOST
+Wire Notes Line
+	12300 3300 12300 2700
+Wire Notes Line
+	12300 3300 13700 3300
+Wire Notes Line
+	12300 2700 13700 2700
+Wire Notes Line
+	13700 3300 13700 2700
+Wire Wire Line
+	13000 3300 13000 4000
+Wire Wire Line
+	13000 3300 13000 3300
+Wire Wire Line
+	13000 4000 13000 4000
+Wire Wire Line
+	13000 3300 13000 4000
+Text Notes 5100 2910 0    66   ~ 12
+DDR3
+Wire Notes Line
+	3100 3200 3100 2600
+Wire Notes Line
+	3100 3200 4500 3200
+Wire Notes Line
+	3100 2600 4500 2600
+Wire Notes Line
+	4500 3200 4500 2600
+Text Notes 3600 2960 0    156   ~ 12
+R8
+Wire Wire Line
+	5300 3200 5300 4000
+Wire Wire Line
+	5300 3200 5300 3200
+Wire Wire Line
+	5300 4000 5300 4000
+Wire Wire Line
+	5300 3200 5300 4000
+Wire Wire Line
+	3800 3200 3800 4000
+Wire Wire Line
+	3800 3200 3800 3200
+Wire Wire Line
+	3800 4000 3800 4000
+Wire Wire Line
+	3800 3200 3800 4000
+$Comp
+L TitleBlock1-nextthing *_2
+U 1 1 6623D67C
+P 12900 9000
+F 0 "*_2" H 12900 9000 60  0000 L BNN
+	1    12900 9000
+	1    0    0    -1
+$EndComp
+$EndSCHEMATC

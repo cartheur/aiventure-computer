@@ -1,0 +1,456 @@
+Archive:  db/36068.zip
+  inflating: db/36068/01 REVISION HISTORY.SchDoc  
+  inflating: db/36068/02 BLOCK.SchDoc  
+  inflating: db/36068/03 CPU.SchDoc  
+  inflating: db/36068/04 POWER.SchDoc  
+  inflating: db/36068/05 MISC.SchDoc  
+  inflating: db/36068/06 SDIO WIFI&BT.SchDoc  
+  inflating: db/36068/07 USB.SchDoc  
+  inflating: db/36068/08 BESIDE CPU.SchDoc  
+  inflating: db/36068/09 DDR3.SchDoc  
+  inflating: db/36068/CHIP_v1_0.LOG  
+  inflating: db/36068/CHIP_v1_0.PrjPcb  
+  inflating: db/36068/CHIP_v1_0.PrjPcbStructure  
+  inflating: db/36068/CHIP_v1_0_Library.SchLib  
+  inflating: db/36068/01 REVISION HISTORY.~(1).SchDoc.Zip  
+  inflating: db/36068/01 REVISION HISTORY.~(2).SchDoc.Zip  
+  inflating: db/36068/02 BLOCK.~(1).SchDoc.Zip  
+  inflating: db/36068/02 BLOCK.~(2).SchDoc.Zip  
+  inflating: db/36068/03 CPU.~(1).SchDoc.Zip  
+  inflating: db/36068/03 CPU.~(2).SchDoc.Zip  
+  inflating: db/36068/04 POWER.~(1).SchDoc.Zip  
+  inflating: db/36068/04 POWER.~(2).SchDoc.Zip  
+  inflating: db/36068/05 MISC.~(1).SchDoc.Zip  
+  inflating: db/36068/05 MISC.~(2).SchDoc.Zip  
+  inflating: db/36068/06 SDIO WIFI&BT.~(1).SchDoc.Zip  
+  inflating: db/36068/06 SDIO WIFI&BT.~(2).SchDoc.Zip  
+  inflating: db/36068/07 USB.~(1).SchDoc.Zip  
+  inflating: db/36068/07 USB.~(2).SchDoc.Zip  
+  inflating: db/36068/08 BESIDE CPU.~(1).SchDoc.Zip  
+  inflating: db/36068/08 BESIDE CPU.~(2).SchDoc.Zip  
+  inflating: db/36068/09 DDR3.~(1).SchDoc.Zip  
+  inflating: db/36068/09 DDR3.~(2).SchDoc.Zip  
+  inflating: db/36068/CHIP_v1_0.~(1).PrjPcb.Zip  
+  inflating: db/36068/CHIP_v1_0_Library.~(1).SchLib.Zip  
+  inflating: db/36068/CHIP_v1_0_Library.~(2).SchLib.Zip  
+  inflating: db/36068/CHIP_v1_0_Library.~(3).SchLib.Zip  
+  inflating: db/36068/01 REVISION HISTORY.SchDocPreview  
+  inflating: db/36068/02 BLOCK.SchDocPreview  
+  inflating: db/36068/03 CPU.SchDocPreview  
+  inflating: db/36068/04 POWER.SchDocPreview  
+  inflating: db/36068/05 MISC.SchDocPreview  
+  inflating: db/36068/06 SDIO WIFI&BT.SchDocPreview  
+  inflating: db/36068/07 USB.SchDocPreview  
+  inflating: db/36068/08 BESIDE CPU.SchDocPreview  
+  inflating: db/36068/09 DDR3.SchDocPreview  
+  inflating: db/36068/CHIP_v1_0.LOGPreview  
+Loading 01 REVISION HISTORY.SchDoc
+
+Loading 02 BLOCK.SchDoc
+
+Loading 03 CPU.SchDoc
+
+Loading 04 POWER.SchDoc
+
+Loading 05 MISC.SchDoc
+
+Loading 06 SDIO WIFI&BT.SchDoc
+
+Loading 07 USB.SchDoc
+
+Loading 08 BESIDE CPU.SchDoc
+
+Loading 09 DDR3.SchDoc
+
+Loading CHIP_v1_0_Library.SchLib
+
+Done.
+No unpacked .PcbDoc documents found. Trying to unpack it:
+Loading 01 REVISION HISTORY.SchDoc
+
+Loading 02 BLOCK.SchDoc
+
+Loading 03 CPU.SchDoc
+
+Loading 04 POWER.SchDoc
+
+Loading 05 MISC.SchDoc
+
+Loading 06 SDIO WIFI&BT.SchDoc
+
+Loading 07 USB.SchDoc
+
+Loading 08 BESIDE CPU.SchDoc
+
+Loading 09 DDR3.SchDoc
+
+Loading CHIP_v1_0_Library.SchLib
+
+Done.
+There were no unpacked PcbDoc files found.
+Handling 01 REVISION HISTORY-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Handling 02 BLOCK-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type without: 7  (#91)
+Handling 03 CPU-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 04 POWER-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 05 MISC-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 06 SDIO WIFI&BT-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 07 USB-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 08 BESIDE CPU-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 09 DDR3-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling CHIP_v1_0_Library-SchLib/Root Entry/FileHeader.dat
+Handling 01 REVISION HISTORY.SchDoc
+Handling 02 BLOCK.SchDoc
+Handling 03 CPU.SchDoc
+Handling 04 POWER.SchDoc
+Handling 05 MISC.SchDoc
+Handling 06 SDIO WIFI&BT.SchDoc
+Handling 07 USB.SchDoc
+Handling 08 BESIDE CPU.SchDoc
+Handling 09 DDR3.SchDoc
