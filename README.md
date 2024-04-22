@@ -11,7 +11,7 @@ This board needs to be put into production to support [emotional](https://emotio
 * NVRAM (eMMC) - 256 GB
 * Pin interfaces at board level (no headers) (Requirement)
 * Rechargable feature for JST connected battery retained but which allows higher-capacity batteries (Requirement)
-* USB should be USB-C (Requirement)
+* USB should be USB-C (Requirement) 
 
 The above list is fluid as its specifics will change as the investigation ensues.
 
