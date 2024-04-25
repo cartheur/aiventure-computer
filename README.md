@@ -1,6 +1,6 @@
 ## aiventure-computer
 
-The computer that currently runs our robotics projects. As finding a replacement has been problematic, can we evolve the design toward a manifestation of an aeon-class machine?
+The computer that currently runs our robotics platforms. As finding a replacement has been problematic for new development, can we evolve the design toward a manifestation of an aeon-class machine?
 
 _Project Goals_
 
