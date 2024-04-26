@@ -8,6 +8,7 @@ Features implemented on this model:
 * Optional composite TRRS to RCA audio-video cable
 * Optional VGA adapter and HDMI adapter (see Hardware extensions below)
 * Open source hardware and open source software
+* Unfortunately, the OrCad is _not_ open source
 * Up to 45 GPIO ports
 * Supports 1-Wire and I2C protocols, PWM output
 * Serial console and Ethernet via USB for quick headless operation
