@@ -16,3 +16,4 @@ Features implemented on this model:
 * Onboard NAND storage, 4-8 GB, pre-installed Linux OS (Debian)
 * API-based firmware update
 * The board is 60mm × 40mm x 15mm in size.
+* The design contains several bugs.
