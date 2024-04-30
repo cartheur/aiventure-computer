@@ -6,15 +6,16 @@ _Project Goals_
 
 This board needs to be put into production to support [emotional](https://emotional.toys) toys products. The following changes need to be considered so that this board is brought-up to the current (2024) technological standards.
 
-* CPU/GPU - Eight cores
-* RAM (SDRAM) - 16 to 48 GB
-* NVRAM (eMMC) - 250 to 500 GB
-* Pin interfaces at board level (male headers) (Requirement)
+* CPU/GPU - Four cores - 64-bit
+* RAM (SDRAM) - 16 GB
+    - Product tiers: 32GB, 64GB, 128GB. 256GB, 512GB 1TB
+* NAND (100k writes)- 256 GB
+* Pin interfaces at board level (no headers) (Requirement)
 * Rechargable feature for JST connected battery retained but which allows higher-capacity batteries (Requirement)
-* USB should be USB-C (Requirement) 
-* Design in an open source toolset 
+* USB-C power, USB-B keyboard connectivity
+* JST 3.5mm stereo connector 
 
-The above list is fluid as its specifics will change as the investigation ensues.
+Features nearly set for second-generation design.
 
 ## The target
 
