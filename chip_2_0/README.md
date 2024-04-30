@@ -5,8 +5,7 @@ We are working toward a new experimental production run of this board and this f
 * To pivot away from OrCad in favor of more accessible CAD tools
 * Bring current the 2016-era components
 * Produce a limited run where we will
-    - Update the OS image
-    - Integrate a desktop system
+    - Update the OS image to Debian Linux kernel 6.x
     - Introduce an autonomous ideal platform
     - Re-engineer the pin header
     - Render a different use-case for the features
