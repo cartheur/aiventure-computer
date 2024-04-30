@@ -17,3 +17,4 @@ Features implemented on this model:
 * API-based firmware update
 * The board is 60mm × 40mm x 15mm in size.
 * The design contains several bugs.
+* A repoduction sans bugs is on the mend.
