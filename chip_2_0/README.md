@@ -23,4 +23,4 @@ Since transforming the design from OrCad to Altium, progress has been made to re
 * There is also a remote I2C Bus expander in the design (PCF8574)
     -  In the original product there was a hat that had both banks of 40-pin headers where one could use a VGA or HDMI version to connect to an external monitor.
 * There is a Bluetooth IC (8723BS) with an antenna in the board to communicate with  other devices via Bluetooth.
-* 
+* To increase the addressable memory size, the design must implement the Cortex-R82 processor. It is 64-bit, 40 address bits which supports addressable memory up to 1TB.
