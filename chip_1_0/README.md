@@ -16,5 +16,13 @@ Features implemented on this model:
 * Onboard NAND storage, 4-8 GB, pre-installed Linux OS (Debian)
 * API-based firmware update
 * The board is 60mm × 40mm x 15mm in size.
-* The design contains several bugs.
-* A repoduction sans bugs is on the mend.
+* The total addressable memory for the Cortex-R8 processor is 4GB.
+
+_Analysis results_
+
+* The schematic illustrated a number of errors which needed to be fixed. There are a multiple of errors in the pcb.
+* The solution is to produce this board without any changes, but with the bugs sorted. After a round of manufacturing and software installation, resolve newly appearing bugs as a part of development of the second version that contains the updated requirements.
+
+### Strategic initiatives
+
+* To streamline the design process, the first version of the board is designed with Cortex-R8 and after implementing and manufacturing this version of project, increment the design to the Cortex-R82 in the second version.
