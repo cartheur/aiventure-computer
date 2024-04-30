@@ -4,9 +4,9 @@ The computer that currently runs our robotics platforms. As finding a replacemen
 
 _Project Goals_
 
-This board needs to be put into production to support [emotional](https://emotional.toys) toys products. The following changes need to be considered so that this board is brought-up to the current (2024) technological standards.
+This board needs to be put into production to support [emotional](https://emotional.toys) toys products. The following changes need to be considered so that this board is brought-up to the current (2024) technological standards. The existing feature set and design experiences are listed [here](/chip_1_0/README.md).
 
-* CPU/GPU - Four cores - 64-bit
+* CPU/GPU - ARM Cortex-R82
 * RAM (SDRAM) - 16 GB
     - Product tiers: 32GB, 64GB, 128GB. 256GB, 512GB 1TB
 * NAND (100k writes)- 256 GB
