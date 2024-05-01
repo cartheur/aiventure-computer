@@ -15,7 +15,7 @@ This board needs to be put into production to support [emotional](https://emotio
 * USB-C power, USB-B keyboard connectivity
 * JST 3.5mm stereo connector 
 
-Features nearly set for second-generation design.
+Features nearly set for second-generation design. Getting ready.
 
 ## The target
 
