@@ -13,7 +13,7 @@ This board needs to be put into production to support [emotional](https://emotio
 * Pin interfaces at board level (no headers) (Requirement)
 * Rechargable feature for JST connected battery retained but which allows higher-capacity batteries (Requirement)
 * USB-C power, USB-B keyboard connectivity
-* JST 3.5mm connector 
+* JST 3.5mm port 
 
 Features nearly set for second-generation design. Getting ready.
 
